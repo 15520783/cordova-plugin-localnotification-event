@@ -1,0 +1,17 @@
+{
+  "name": "localnotificationevent",
+  "version": "1.0.0",
+  "description": "Listen event when user click on localnotification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Event",
+    "Localnotification",
+    "Event",
+    "Localnotification"
+  ],
+  "author": "Nguyen Thanh Thai",
+  "license": "ISC"
+}
