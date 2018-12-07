@@ -23,8 +23,6 @@
 
 #import "AppDelegate.h"
 
-extern NSString* const UIApplicationRegisterUserNotificationSettings;
-
 @interface AppDelegate (APPAppEvent)
 
 @end

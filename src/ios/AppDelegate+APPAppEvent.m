@@ -23,8 +23,6 @@
 
 #import "AppDelegate+APPAppEvent.h"
 #import "MainViewController.h"
-#import <Availability.h>
-#import <objc/runtime.h>
 
 @implementation AppDelegate (APPAppEvent)
 /**
